@@ -43,10 +43,12 @@ Desenvolvido com **React** e estilizado com **Tailwind CSS**, este site apresent
     npm install
 
 3. **Inicie o servidor de desenvolvimento:**
-    ```npm start
+    ```bash
+    npm start
 
 4. **Acesse no navegador**
-    ```http://localhost:3000
+    ```bash
+    http://localhost:3000
 
 --- 
 
@@ -58,11 +60,12 @@ Desenvolvido com **React** e estilizado com **Tailwind CSS**, este site apresent
 --- 
 
 ## 📬 **Contato**
-📞 **Telefone:** (61) 99576-7280
-📧 **Email:** [fernandorsoul@gmail.com](mailto:fernandorsoul@gmail.com)
-🌐 **LinkedIn:** [linkedin.com/in/fernandorsoul](linkedin.com/in/fernandorsoul)
+
+-📧 **Email:** [fernandorsoul@gmail.com](mailto:fernandorsoul@gmail.com)
+
+-🌐 **LinkedIn:** [linkedin.com/in/fernandorsoul](linkedin.com/in/fernandorsoul)
 
 ---
 ## 🏆 Contribuições
-### 💡 Encontrou algo que poderia melhorar?
-### Sinta-se à vontade para abrir uma issue ou enviar um pull request!
+💡 Encontrou algo que poderia melhorar?
+Sinta-se à vontade para abrir uma issue ou enviar um pull request!
